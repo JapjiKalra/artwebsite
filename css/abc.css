@@ -1,0 +1,42 @@
+#border{
+	background-color: #ffc9ef;
+	height: 100px;
+	width:2000px;
+	
+}
+
+h1{
+	 
+	 color:#13166e;
+	 float:left;
+	 padding: 20px;
+}
+
+#list{
+	float: left;
+	align-content:right;
+
+	padding-left: 1000px;
+
+}
+.language-text
+{
+  display:none;
+  color:#4d1766;
+}
+
+.language-text2
+{
+  display:none;
+  color:#4d1766;
+}
+
+.carousel-inner img{
+	width: auto;
+	height: 85vh;
+	background-size: cover;
+	margin-left: 250px;
+    margin-right: auto;
+
+}
+
